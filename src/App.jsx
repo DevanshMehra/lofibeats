@@ -246,7 +246,7 @@ function App() {
     setBtnClass2("playBtn2");
   };
   const EternalMelodies = () => {
-    setVideo("//www.youtube.com/embed/KRA26LhuTP4?autoplay=1&mute=1&start=0");
+    setVideo("//www.youtube.com/embed/sD_tctv97hA?autoplay=1&mute=1&start=0");
     setStationName("Eternal Melodies");
     setYoutubeChannal("https://www.youtube.com/c/EternalMelodies");
     setLivestream(
